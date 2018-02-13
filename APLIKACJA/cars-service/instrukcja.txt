@@ -1,0 +1,11 @@
+﻿Aby uruchomić aplikację, należy wykonać następujace kroki:
+
+1. Otworzyć konsolę w katalogu z tą instrukcją i ściągnąć zależności poprzez komendę:
+"npm install" i poczekać aż pojawi się folder NODE_MODULES
+
+2. Uruchomić aplikację komendą:
+"ng serve"
+
+3. Przejść pod adres http://localhost:4200
+
+Zanim uruchomisz aplikację, upewnij się, że uruchomiłeś serwer (również w katalogu z serwerem jest instrukcja).
